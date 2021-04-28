@@ -52,4 +52,4 @@ open cmd in Windows or terminal in Linux, then cd to the MSINGB/codes folder whi
 
 
 ### Announcements
-Wang, C. and Liang, C. MSIpred: a python package for tumor microsatellite instability classification from tumor mutation annotation data using a support vector machine. Scientific Reports 2018;8.
+Wang, C. and Liang, C. MSIpred: a python package for tumor microsatellite instability classification from tumor mutation annotation data using a support vector machine. *Scientific Reports* 2018;8.
