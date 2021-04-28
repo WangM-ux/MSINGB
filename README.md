@@ -36,8 +36,8 @@ download the file "simplerepeats. TXT" from the UCSC database and save it in the
 </br>***Download link: http://hgdownload.cse.ucsc.edu/goldenPath/hg38/database/simpleRepeat.txt.gz***
 #### Step 2
 open cmd in Windows or terminal in Linux, then cd to the MSINGB/codes folder which contains pre.py.
-</br>`python pre.py --maf [predicting data in maf format] -outdir [ predicting results in the folder]`</br>  </br>***Example:***
-</br>`python pre.py --maf ../data/example.maf -output ../out`</br>  
+</br>`python msingb.py --maf [predicting data in maf format] -outdir [ predicting results in the folder]`</br>  </br>***Example:***
+</br>`python msingb.py --maf ../data/example.maf -output ../out`</br>  
 
 ***
 
