@@ -47,3 +47,9 @@ open cmd in Windows or terminal in Linux, then cd to the MSINGB/codes folder whi
 
 * In order to obtain the prediction results, please be sure to enter the file in MAF format. If you don't know the format of the MAF file, please download the example.maf file to check.
 * The intermediate feature file and result file generated in the process of running return prediction are saved in the output folder required by the user.
+* The code "getFeature. Py" and "getTag. Py" refer to the feature extraction in MSIpred (Wang and Liang, 2018), respectively.
+
+
+
+### Announcements
+Wang, C. and Liang, C. MSIpred: a python package for tumor microsatellite instability classification from tumor mutation annotation data using a support vector machine. Scientific Reports 2018;8.
